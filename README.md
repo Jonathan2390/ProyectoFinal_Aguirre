@@ -25,6 +25,10 @@ Al dar clic sobre finalizar compra, se abren los campos de nombre, teléfono y c
 ## Repositorio Github
 https://github.com/Jonathan2390/ProyectoFinal_Aguirre.git
 
+## Sitio en Vercel
+
+https://proyectofinalaguirre.vercel.app/category/lifestyle
+
 ## Tecnologías
 - React
 - React Router
